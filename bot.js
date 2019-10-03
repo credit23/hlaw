@@ -89,8 +89,7 @@ client2.on('message', message => {
 
 client2.on('message', message => {
     if(message.content === prefix+'ريب'){
-        message.channel.send('#rep <@!Ha°7𝓜𝓞𝓞𝓓_𝓖𝓣°°
-#6621>')
+        message.channel.send('#rep <@>')
     }
 });
 
